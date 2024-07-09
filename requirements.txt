@@ -1,0 +1,8 @@
+pyLDAvis
+gensim
+nltk
+xmltodict
+numpy
+matplotlib
+pandas
+d3blocks
